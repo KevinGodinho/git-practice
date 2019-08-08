@@ -1,0 +1,1 @@
+Hello there this is a test of using the terminal for Git instead of Github's UI.
